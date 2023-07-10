@@ -1,0 +1,180 @@
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: dimgray;
+    padding: 15px 0;
+    
+}
+.menu a{
+    text-decoration: none;
+    padding-left: 30px;
+    color: aliceblue;
+}
+.sunno{
+    color: red;
+}
+.banner{
+    background-image: url(asset/image/background.jpg);
+    
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.banner-content{
+    text-align: center;
+    
+    
+}
+.hard{
+    color: white;
+    font-size: 70px;
+    font-weight: 700;
+}
+.hard-a{
+    color:rgb(25, 6, 6);
+    font-size: 16px;
+    padding: 0 300px;
+}
+.btn-primary{
+    color: white;
+    background-color: darkorange;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+}
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: url(asset/image/footer-bg.png) rgb(41, 31, 31);
+    height: 100vh;
+    
+
+    
+}
+.section-p{
+    
+}
+.section-title{
+  padding-right: 20px;  
+}
+.section-f{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+
+}
+.section-l{
+    font-size: 18spx;
+    color: white;
+}
+.list-content{
+    color: white;
+    font-style: italic;
+}
+.
+.sec{
+    display: flex;
+    align-items: center;
+    
+}
+.nuru{
+    height: 200px;
+    background-color: white;
+    padding: 20px;
+    
+}
+.res{
+    border-radius: 50%;
+    
+}
+.bal-mara{
+    color: white;
+    padding: 0 10px;
+
+}
+.rev{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.cav{
+    display: flex;
+    align-items: center;
+}
+/* appoinment */
+.sun{
+    height: 100px;
+    width: auto;
+}
+.phone-call{
+    display: flex;
+    align-items: center;
+}
+.appoinment{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: red;
+    border-radius: 10px;
+    margin-top: -40px;
+}
+.land{
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+.header{
+    text-align: center;
+}
+.remo{
+    padding: 0 300px;
+} 
+
+/*  blog site */
+.classic{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+.classic-i{
+    margin: 0 60px;
+    box-shadow: 20px white;
+}
+/*  footer  */
+.footer-k{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    height: 300px;
+    width: auto;
+    
+}
+.var{
+    
+    font-size: 16px;
+    margin-right: 220px;
+}
+.footer-title{
+    color: white;
+    
+}
+.footer-info{
+    color: white;
+    margin-right: 270px;
+}
+ul li{
+list-style: none;
+}
+.footer-n{
+    color: white;
+}
